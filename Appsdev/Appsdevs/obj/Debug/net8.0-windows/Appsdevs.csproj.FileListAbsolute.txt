@@ -1,0 +1,17 @@
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\bin\Debug\net8.0-windows\Appsdevs.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\bin\Debug\net8.0-windows\Appsdevs.deps.json
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\bin\Debug\net8.0-windows\Appsdevs.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\bin\Debug\net8.0-windows\Appsdevs.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\bin\Debug\net8.0-windows\Appsdevs.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\refint\Appsdevs.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\Appsdevs.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Appsdev\Appsdevs\obj\Debug\net8.0-windows\ref\Appsdevs.dll
